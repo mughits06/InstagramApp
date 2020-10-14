@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919032504500",
+    "firebase_url": "https://sosial-media-1a3cd.firebaseio.com",
+    "project_id": "sosial-media-1a3cd",
+    "storage_bucket": "sosial-media-1a3cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919032504500:android:f7e5a3e5e801925d8537e1",
+        "android_client_info": {
+          "package_name": "com.mughitszufar.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919032504500-7lf51ofe3espsv2ghu625kjom5e4ol7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mughitszufar.instagram",
+            "certificate_hash": "614e2ff60e2ba2f788f7f29bb1d99b6f0ed26d16"
+          }
+        },
+        {
+          "client_id": "919032504500-h7t5t673d2p63vdjcevclrogvhtufphj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVi0UnPp-hjSHkqN70lgVK68u-xjEbr0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919032504500-h7t5t673d2p63vdjcevclrogvhtufphj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
